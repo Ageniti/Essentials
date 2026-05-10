@@ -1,0 +1,20 @@
+Essentials
+
+This repository is a trimmed and renamed continuation of the earlier
+OpenHarness codebase.
+
+Licensing:
+
+- The repository is distributed under the MIT License included in `LICENSE`.
+- The upstream MIT copyright notice for OpenHarness is preserved in that file.
+- Current modifications, reductions, documentation, and repository maintenance
+  are part of the Essentials project.
+
+Attribution:
+
+- Upstream lineage: OpenHarness
+- Current project name: Essentials
+- Current maintainer identity in project metadata: novix-science
+
+This notice is provided for attribution and repository clarity. It does not
+replace the license terms in `LICENSE`.
