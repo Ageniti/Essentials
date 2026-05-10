@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-black" alt="MIT License" /></a>
-  <img src="https://img.shields.io/badge/python-3.10%2B-black" alt="Python 3.10+" />
-  <img src="https://img.shields.io/badge/runtime-local--first-black" alt="Local-first runtime" />
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-10b981" alt="MIT License" /></a>
+  <img src="https://img.shields.io/badge/python-3.10%2B-3776ab" alt="Python 3.10+" />
+  <img src="https://img.shields.io/badge/runtime-local--first-7c3aed" alt="Local-first runtime" />
 </p>
 
 Essentials is a local-first coding agent CLI for terminal workflows. It keeps the
